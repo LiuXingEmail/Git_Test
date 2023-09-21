@@ -10,6 +10,8 @@ public class Test1 {
         System.out.println("第六次提交");
         System.out.println("第7次提交");
         System.out.println("第8次提交");
+        System.out.println("第8次提交");
+        System.out.println("第8次提交");
 
     }
 }
